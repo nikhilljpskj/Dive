@@ -93,6 +93,77 @@
 	padding-top: 30px;
 }
 
+.clients-section {
+	width: 100%;
+	padding: 70px 0;
+	/* background-color: #f9f9f9; */
+	text-align: center;
+}
+
+.clients-heading {
+	font-size: 2rem; /* Slightly increased font size */
+	margin-bottom: 30px;
+	color: #333;
+	font-weight: 600;
+}
+
+.clients-scroll-wrapper {
+	overflow: hidden;
+	width: 100%;
+}
+
+.clients-scroll {
+	display: flex;
+	align-items: center;
+	gap: 60px; /* Increased gap between logos */
+	animation: scroll-left 50s linear infinite; 
+}
+
+.clients-scroll img {
+	width: 180px; /* Increased size for bigger circle */
+	height: 180px; /* Increased size for bigger circle */
+	border-radius: 50%;
+	object-fit: contain; /* Ensure logos fit without being cropped */
+	border: 2px solid #e0e0e0;
+	/* box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); */
+	transition: filter 0.3s ease;
+	background-color: white;
+	padding: 5px;
+}
+
+.clients-scroll img:hover {
+	filter: grayscale(0%);
+}
+
+/* Animation keyframe */
+@keyframes scroll-left {
+	0% {
+		transform: translateX(100%);
+	}
+	100% {
+		transform: translateX(-100%);
+	}
+}
+
+/* Mobile Responsive */
+@media (max-width: 768px) {
+	.clients-heading {
+		font-size: 1.6rem; /* Adjusted for mobile view */
+	}
+
+	.clients-scroll {
+		gap: 30px; /* Adjust gap for mobile */
+	}
+
+	.clients-scroll img {
+		width: 90px; /* Slightly smaller circle for mobile */
+		height: 90px; /* Slightly smaller circle for mobile */
+	}
+}
+
+
+
+
 @media (max-width: 1024px) {
 	.homepage-first-area {
 		flex-direction: column;

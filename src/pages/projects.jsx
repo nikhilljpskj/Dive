@@ -40,11 +40,11 @@ const Projects = () => {
 					<div className="projects-container">
 					<div className="projects-container">
 						<div className="title projects-title">
-							My Journey in Talent Acquisition & Recruitment Strategy
+							My Journey as Recruitment Consultant
 						</div>
 
 						<div className="subtitle projects-subtitle">
-							Throughout my career as a Talent Acquisition Specialist, I’ve successfully led strategic hiring efforts across travel (W2), permanent, and locum tenens roles. I’m proud to have worked with leading platforms and VMS tools, optimizing candidate sourcing and streamlining recruitment operations. I believe in creating meaningful connections that drive long-term results for clients and candidates alike. If you're looking to collaborate on innovative hiring strategies or explore recruitment solutions, I’d be happy to connect and discuss opportunities.
+							Throughout my career as a Recruitment Consultant, I’ve successfully led strategic hiring efforts across travel (W2), permanent, and locum tenens roles. I’m proud to have worked with leading platforms and VMS tools, optimizing candidate sourcing and streamlining recruitment operations. I believe in creating meaningful connections that drive long-term results for clients and candidates alike. If you're looking to collaborate on innovative hiring strategies or explore recruitment solutions, I’d be happy to connect and discuss opportunities.
 						</div>
 					</div>
 

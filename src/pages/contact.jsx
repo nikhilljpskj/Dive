@@ -64,7 +64,7 @@ const Contact = () => {
 						</div>
 
 						<div className="subtitle contact-subtitle">
-							As a Sr. Talent Acquisition Specialist and Research Scholar, I specialize in travel (W2), permanent, and locum tenens recruitment. I’m certified in Nexus ATS and skilled in platforms like Vivian Job Diva, Indeed, Facebook, Broadbean, Monster, and LinkedIn. I leverage tools like Workday, SAP Fieldglass, Vector, ShiftWise, and Magnit while managing US compliance, timesheets, credentialing, and employee issues. With a first-class MBA in HR & Marketing and currently pursuing a PhD in Business Management, I bring strategic insight into recruitment and client engagement. Let’s connect to discuss your hiring needs. You can reach me at <a href="mailto:divedevadas@gmail.com">divedevadas@gmail.com</a> or use the form below.
+						Let’s connect to discuss your hiring needs. You can reach me at <a href="mailto:divedevadas@gmail.com">divedevadas@gmail.com</a> or use the form below.
 						</div>
 
 						<form ref={form} onSubmit={sendEmail} className="contact-form">

@@ -110,7 +110,6 @@ const Homepage = () => {
 								</div>
 							</div>
 						</div>
-
 						
 						<div className="homepage-socials">
 							<a
@@ -157,6 +156,43 @@ const Homepage = () => {
 								/>
 							</a>
 						</div>
+
+						
+						<div className="clients-section">
+							<h2 className="clients-heading">Clients I’ve Worked With</h2>
+							<div className="clients-scroll-wrapper">
+								<div className="clients-scroll">
+									<img src="../client1.jpg" alt="Client 1" />
+									<img src="../client2.png" alt="Client 2" />
+									<img src="../client3.webp" alt="Client 3" />
+									<img src="../client4.jpg" alt="Client 4" />
+									<img src="../client5.png" alt="Client 5" />
+									<img src="../Client6.png" alt="Client 6" />
+									<img src="../client7.png" alt="Client 6" />
+									<img src="../client8.png" alt="Client 6" />
+									<img src="../client9.png" alt="Client 6" />
+									<img src="../client10.png" alt="Client 6" />
+									<img src="../client12.png" alt="Client 6" />
+									<img src="../client13.png" alt="Client 6" />
+									<img src="../client14.png" alt="Client 6" />
+									<img src="../client15.png" alt="Client 6" />
+									<img src="../client16.png" alt="Client 6" />
+									<img src="../client17png" alt="Client 6" />
+									<img src="../client18png" alt="Client 6" />
+									<img src="../client19.png" alt="Client 6" />
+									<img src="../client20.png" alt="Client 6" />
+										{/* Duplicate first 6 images for smooth scroll */}
+									<img src="../client1.jpg" alt="Client 1" />
+									<img src="../client2.png" alt="Client 2" />
+									<img src="../client3.webp" alt="Client 3" />
+									<img src="../client4.jpg" alt="Client 4" />
+									<img src="../client5.png" alt="Client 5" />
+									<img src="../Client6.png" alt="Client 6" />
+								</div>
+							</div>
+						</div>
+
+
 
 						<div className="homepage-projects">
 							<AllProjects />

@@ -23,9 +23,9 @@ const INFO = {
 	},
 
 	about: {
-		title: "I’m Dive Devadas, Sr. Recruitment Consultant and Research Scholar.",
+		title: "I’m Dive Devadas,",
 		description:
-			"As a Recruitment Consultant, I bring a wealth of experience in travel (W2), permanent placements, and locum tenens recruitment. I'm skilled in lead generation, candidate screening, client relationship management, negotiation, and documentation. I source top-tier talent using platforms like Vivian Job Diva, Indeed, Facebook, Health Job Nation, Broadbean, Monster, and LinkedIn. Certified in Nexus ATS, I streamline recruitment processes and enhance efficiency. I’m proficient in Workday, SAP Fieldglass, Vector, ShiftWise, and Magnit, and I have experience navigating 65+ VMS platforms. I also specialize in US compliance, credentialing, timesheet management, and employee relations. Currently pursuing a PhD in Business Management with a focus on HR, I hold an MBA with dual specializations in HR and Marketing. Let’s connect to discuss how I can support your recruitment goals.",
+			"As a Recruitment Consultant, I bring a wealth of experience in travel (W2), permanent placements, and locum tenens recruitment. I'm skilled in lead generation, candidate screening, client relationship management, negotiation, and documentation. I source top-tier talent using platforms like Vivian Job Diva, Indeed, Facebook, Health Job Nation, Broadbean, Monster, and LinkedIn. Certified in Nexus ATS, I streamline recruitment processes and enhance efficiency. I’m proficient in Workday, SAP Fieldglass, Vector, ShiftWise, and Magnit, and I have experience navigating 45+ VMS/MSP platforms. I also specialize in US compliance, credentialing, timesheet management, and employee relations. Currently pursuing a PhD in Business Management with a focus on HR, I hold an MBA with dual specializations in HR and Marketing. Let’s connect to discuss how I can support your recruitment goals.",
 	},
 	
 
