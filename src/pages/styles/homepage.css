@@ -116,7 +116,7 @@
 	display: flex;
 	align-items: center;
 	gap: 60px; /* Increased gap between logos */
-	animation: scroll-left 50s linear infinite; 
+	animation: scroll-left 25s linear infinite; 
 }
 
 .clients-scroll img {
