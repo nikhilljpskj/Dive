@@ -162,31 +162,31 @@ const Homepage = () => {
 							<h2 className="clients-heading">Clients I’ve Worked With</h2>
 							<div className="clients-scroll-wrapper">
 								<div className="clients-scroll">
-									<img src="../client1.jpg" alt="Client 1" />
-									<img src="../client2.png" alt="Client 2" />
-									<img src="../client3.webp" alt="Client 3" />
-									<img src="../client4.jpg" alt="Client 4" />
-									<img src="../client5.png" alt="Client 5" />
+									<img src="../Client1.jpg" alt="Client 1" />
+									<img src="../Client2.png" alt="Client 2" />
+									<img src="../Client3.webp" alt="Client 3" />
+									<img src="../Client4.jpg" alt="Client 4" />
+									<img src="../Client5.png" alt="Client 5" />
 									<img src="../Client6.png" alt="Client 6" />
-									<img src="../client7.png" alt="Client 6" />
-									<img src="../client8.png" alt="Client 6" />
-									<img src="../client9.png" alt="Client 6" />
-									<img src="../client10.png" alt="Client 6" />
-									<img src="../client12.png" alt="Client 6" />
-									<img src="../client13.png" alt="Client 6" />
-									<img src="../client14.png" alt="Client 6" />
-									<img src="../client15.png" alt="Client 6" />
-									<img src="../client16.png" alt="Client 6" />
-									<img src="../client17png" alt="Client 6" />
-									<img src="../client18png" alt="Client 6" />
-									<img src="../client19.png" alt="Client 6" />
-									<img src="../client20.png" alt="Client 6" />
+									<img src="../Client7.png" alt="Client 6" />
+									<img src="../Client8.png" alt="Client 6" />
+									<img src="../Client9.png" alt="Client 6" />
+									<img src="../Client10.png" alt="Client 6" />
+									<img src="../Client12.png" alt="Client 6" />
+									<img src="../Client13.png" alt="Client 6" />
+									<img src="../Client14.png" alt="Client 6" />
+									<img src="../Client15.png" alt="Client 6" />
+									<img src="../Client16.png" alt="Client 6" />
+									<img src="../Client17png" alt="Client 6" />
+									<img src="../Client18png" alt="Client 6" />
+									<img src="../Client19.png" alt="Client 6" />
+									<img src="../Client20.png" alt="Client 6" />
 										{/* Duplicate first 6 images for smooth scroll */}
-									<img src="../client1.jpg" alt="Client 1" />
-									<img src="../client2.png" alt="Client 2" />
-									<img src="../client3.webp" alt="Client 3" />
-									<img src="../client4.jpg" alt="Client 4" />
-									<img src="../client5.png" alt="Client 5" />
+									<img src="../Client1.jpg" alt="Client 1" />
+									<img src="../Client2.png" alt="Client 2" />
+									<img src="../Client3.webp" alt="Client 3" />
+									<img src="../Client4.jpg" alt="Client 4" />
+									<img src="../Client5.png" alt="Client 5" />
 									<img src="../Client6.png" alt="Client 6" />
 								</div>
 							</div>
