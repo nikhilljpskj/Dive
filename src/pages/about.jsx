@@ -105,7 +105,7 @@ const About = () => {
 									<div className="certifications-images">
 										<div className="certification-image">
 											<img
-												src="../Lev1.png"
+												src="../LEV1.png"
 												alt="Certification 1"
 												className="certification-img"
 											/>
