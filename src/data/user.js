@@ -1,6 +1,6 @@
 const INFO = {
 	main: {
-		title: "Reactfolio by truethari",
+		title: "Dive",
 		name: "Dive.",
 		email: "divedevadas@gmail.com",
 		logo: "../logo.png",
@@ -17,7 +17,7 @@ const INFO = {
 	},
 
 	homepage: {
-		title: "Sr. Recruitment Consultant | Research Scholar",
+		title: "Sr. Recruitment Consultant",
 		description:
 			"As a Recruitment Consultant, I bring a wealth of experience in travel (W2), perm placements, and locum tenens recruitment, with a strong focus on lead generation, candidate screening, client relationship management, negotiation, and documentation. I am highly skilled in sourcing candidates across a range of platforms, including Vivian Job Diva, Indeed, Facebook, Health Job Nation, Broadbean, Monster, and LinkedIn, enabling me to connect top-tier talent with the right opportunities",
 	},
