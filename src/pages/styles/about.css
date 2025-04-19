@@ -69,6 +69,102 @@
 	display: none;
 }
 
+.about-education {
+	margin-top: 30px; /* Space between Socials and Education */
+}
+
+.education-title {
+	font-size: 1.6rem;
+	font-weight: bold;
+	color: #333;
+	margin-bottom: 15px;
+}
+
+.education-item {
+	display: flex;
+	align-items: center;
+	gap: 15px;
+	margin-bottom: 20px;
+}
+
+.education-icon {
+	font-size: 24px;
+	color: #ff6600; /* Example color for the icon */
+}
+
+.education-details h4 {
+	font-size: 1.2rem;
+	font-weight: bold;
+	color: #444;
+	margin: 0;
+}
+
+.education-details p {
+	font-size: 1rem;
+	color: #666;
+	margin: 5px 0;
+}
+
+/* Mobile responsive styling */
+@media (max-width: 768px) {
+	.education-title {
+		font-size: 1.4rem;
+	}
+
+	.education-item {
+		flex-direction: column;
+		align-items: flex-start;
+	}
+
+	.education-icon {
+		margin-bottom: 10px;
+	}
+}
+
+.certifications-section {
+	margin-top: 30px; /* Space between Socials and Certifications */
+}
+
+.certifications-title {
+	font-size: 1.6rem;
+	font-weight: bold;
+	color: #333;
+	margin-bottom: 15px;
+}
+
+.certifications-images {
+	display: flex;
+	gap: 20px; /* Space between images */
+}
+
+.certification-image {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%; /* Make images circular */
+	overflow: hidden;
+	border: 3px solid #e0e0e0; /* Optional: border around the circle */
+}
+
+.certification-img {
+	width: 100%;
+	height: 100%;
+	object-fit: contain; /* Ensure images fit within the circle without distortion */
+}
+
+/* Mobile responsive styling */
+@media (max-width: 768px) {
+	.certifications-title {
+		font-size: 1.4rem;
+	}
+
+	.certifications-images {
+		flex-direction: column;
+		object-fit: contain;
+		align-items: center; /* Center images on smaller screens */
+	}
+}
+
+
 @media (max-width: 1024px) {
 	.about-logo {
 		z-index: 100;
